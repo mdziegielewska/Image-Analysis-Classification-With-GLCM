@@ -7,8 +7,6 @@ This project aims to analyze and classify images using Grey Level Co-occurrence 
 
 ### Project structure
 
-- _.gitignore_: Specifies files to be ignored by Git.
-- _README.md_: Provides an overview of the project.
 - _image_classification.ipynb_: Contains the core image classification pipeline.
 - _requirements.txt_: Lists project dependencies.
 - _test.csv_: Contains test image data and labels.
